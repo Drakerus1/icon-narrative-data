@@ -1,0 +1,39 @@
+{
+  "title": "ICON Narrative Data",
+  "description": "A collection of sheets and items for the ICON TTRPG.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Drakerus",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+  "packs": [
+    {
+      "name": "bonds",
+      "label": "Bonds",
+      "path": "packs/bonds.db",
+      "type": "Actor",
+      "system": "worldbuilding",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "bond-powers",
+      "label": "Bond Powers",
+      "path": "packs/bond-powers.db",
+      "type": "Item",
+      "system": "worldbuilding",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Drakerus1/icon-narrative-data",
+  "manifest": "",
+  "download": "",
+  "id": "icon-narrative-data"
+}
